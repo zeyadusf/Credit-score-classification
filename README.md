@@ -34,7 +34,9 @@ The Credit Score Classification project aimed to develop a robust and accurate s
   ```
 
     - You can read this content to know more about [tutorials Pycaret](https://nbviewer.org/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Binary%20Classification.ipynb) .
-  <hr>
+
+* Download this dataset to save yourself time running codes to eliminate Missing Values --> [preprocessedMissing_dataset](preprocessedMissing_dataset.csv) [Optional]
+   <hr>
   
 🚧 <b>ReadMe</b> under modification (not completed yet) 🚧
 
