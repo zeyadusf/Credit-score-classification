@@ -27,6 +27,12 @@ The Credit Score Classification project aimed to develop a robust and accurate s
   #install pycaret
   ! pip install pycaret
   ```
+  ```
+  # check installed version
+  import pycaret
+  pycaret.__version__
+  ```
+
     - You can read this content to know more about [tutorials Pycaret](https://nbviewer.org/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Binary%20Classification.ipynb) .
   <hr>
   
