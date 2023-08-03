@@ -1,10 +1,35 @@
 <div align="center">
   
 # Credit Score Classification
+
 </div>
 
 ![img](https://github.com/zeyadusf/Credit-score-classification/assets/83798621/00c2269c-5954-4ee3-9ae4-8313a697e690)
 
+
+<div align="center">
+  <a href="https://github.com/zeyadusf/Credit-score-classification/graphs/contributors">
+  <img src="https://img.shields.io/github/contributors/zeyadusf/Credit-score-classification.svg?style=flat" alt="Contributors" />
+</a>
+
+  <a href="https://github.com/zeyadusf/Credit-score-classification/issues">
+  <img src="https://img.shields.io/github/issues/zeyadusf/Credit-score-classification.svg?style=flat" alt="issues" />
+</a>
+
+<a href="https://github.com/zeyadusf/Credit-score-classification/network/members">
+  <img alt="Github forks" src="https://img.shields.io/github/forks/zeyadusf/Credit-score-classification.svg" alt="forks"/>
+</a>
+
+ <a href="https://github.com/zeyadusf/Credit-score-classification/stargazers">
+  <img alt="Github stars" src="https://img.shields.io/github/stars/zeyadusf/Credit-score-classification?color=56BEB8"  alt="stars" />
+</a>
+
+<img alt="Github top language" src="https://img.shields.io/github/languages/top/zeyadusf/Credit-score-classification?color=yellow">
+<img alt="Github language count" src="https://img.shields.io/github/languages/count/zeyadusf/Credit-score-classification?color=blue">  
+<img alt="Repository size" src="https://img.shields.io/github/repo-size/zeyadusf/Credit-score-classification?color=56BEB8">
+<img alt="License" src="https://img.shields.io/github/license/zeyadusf/Credit-score-classification?color=green">
+
+</div>
 
 ## :dart: About : ##
 
