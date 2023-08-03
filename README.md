@@ -1,31 +1,6 @@
-<!--social media-->
-<div align="center">
-<a href="https://www.kaggle.com/zeyadusf" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zeyadusf" height="30" width="40" />
-</a>
-
- <a href="https://github.com/zeyadusf" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="zeyadusf" height="30" width="40" />
- </a>
-  
-<a href="https://www.linkedin.com/in/zeyadusf/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Zeyad Usf" height="30" width="40" />
-  </a>
-  
-  <a href="https://www.facebook.com/ziayd.yosif" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Zeyad Usf" height="30" width="40" />
-  </a>
-  
-<a href="https://www.instagram.com/zeyadusf" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeyadusf" height="30" width="40" />
-</a> 
-</div>
-
-<hr>
-
 <div align="center">
   
-# Credit Score Classificationl
+# Credit Score Classification
 </div>
 
 ![img](https://github.com/zeyadusf/Credit-score-classification/assets/83798621/00c2269c-5954-4ee3-9ae4-8313a697e690)
