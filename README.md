@@ -1,5 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=zeyadusf&color=blue)
-
 <!--social media-->
 <div align="center">
 <a href="https://www.kaggle.com/zeyadusf" target="blank">
