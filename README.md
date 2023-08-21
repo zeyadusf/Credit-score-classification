@@ -33,9 +33,10 @@
 
 ## :dart: About : ##
 
-The Credit Score Classification project aimed to develop a robust and accurate system for classifying credit scores. Credit score classification plays a vital role in assessing an individual's creditworthiness and determining their eligibility for loans, credit cards, and other financial services. It is a crucial component of risk assessment for financial institutions, helping them make informed decisions while minimizing the risk of defaults
+  The Credit Score Classification project aimed to develop a robust and accurate system for classifying credit scores. Credit score classification plays a vital role in assessing an individual's creditworthiness and determining their eligibility for loans, credit cards, and other financial services. It is a crucial component of risk assessment for financial institutions, helping them make informed decisions while minimizing the risk of defaults.
 
-<b>Dataset</b> from kaggle -->  [Credit score classification](https://www.kaggle.com/datasets/parisrohan/credit-score-classification)
+🔗 <b>[More Details](Credit%20Score%20Classification.pdf)</b> 
+🔗<b>Dataset in kaggle :</b> [Credit score classification](https://www.kaggle.com/datasets/parisrohan/credit-score-classification)
 
 ## :rocket: Technologies ##
 <p align='center'>
