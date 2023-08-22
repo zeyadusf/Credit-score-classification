@@ -45,6 +45,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="https://github.com/zeyadusf/Credit-score-classification/assets/83798621/9fb41e8f-e623-4f1c-9aa2-73dddcc46189" alt="git" width="180" height="45"/>
+
 </p>
 
 ## 🚩 Requirement ##
