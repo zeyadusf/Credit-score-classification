@@ -35,6 +35,17 @@
 
   The Credit Score Classification project aimed to develop a robust and accurate system for classifying credit scores. Credit score classification plays a vital role in assessing an individual's creditworthiness and determining their eligibility for loans, credit cards, and other financial services. It is a crucial component of risk assessment for financial institutions, helping them make informed decisions while minimizing the risk of defaults.
 
+  The missing data was dealt with in a way that is correct for the real values, and then the models were built.
+  
+Two models were built with different approaches:
+  * PyCaret:
+    - Extra Trees Classifier.
+    - Random Forest Classifier
+    - Extreme Gradient Boosting.
+    - K Neighbors Classifier.
+    - Decision Tree Classifier.
+* RandomForest.
+  
 🔗 <b>[More Details](Credit%20Score%20Classification.pdf)</b> 
 
 🔗<b>Dataset in kaggle :</b> [Credit score classification](https://www.kaggle.com/datasets/parisrohan/credit-score-classification)
@@ -65,9 +76,6 @@
     - You can read this content to know more about [tutorials Pycaret](https://nbviewer.org/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Binary%20Classification.ipynb) .
 
 * Download this dataset to save yourself time running codes to eliminate Missing Values - [preprocessedMissing_dataset](Preprocessed_Missing_dataset.csv) [Optional]
-   <hr>
-  
-🚧 <b>ReadMe</b> under modification (not completed yet) 🚧
 
 
   <hr>
