@@ -51,6 +51,7 @@ Two models were built with different approaches:
 
  <B>NoteBooks in Kaggel</b> :
   - 🔗 <b> Part One : [CreditScore_Part1_HandleMissingWithCorrectValues](https://www.kaggle.com/zeyadusf/creditscore-part1-handlemissing) 
+  - 🔗 <b> Part Two : [CreditScoreClassification_Part2(EDA&Models)86.6%](https://www.kaggle.com/code/zeyadusf/creditscoreclassification-part2-eda-models-86-6) 
 
 🔗<b>Dataset in kaggle :</b> [Credit score classification](https://www.kaggle.com/datasets/parisrohan/credit-score-classification)
 
