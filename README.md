@@ -45,10 +45,11 @@ Two models were built with different approaches:
     - K Neighbors Classifier.
     - Decision Tree Classifier.
 * RandomForest.
-  
-🔗 <b>[More Details](Credit%20Score%20Classification.pdf)</b> 
 
-## NoteBooks in Kaggel :
+
+🔗 <b>[More Details](Credit%20Score%20Classification.pdf)</b> in Presentaion .
+
+ <B>NoteBooks in Kaggel</b> :
   - 🔗 <b> Part One : [CreditScore_Part1_HandleMissingWithCorrectValues](https://www.kaggle.com/zeyadusf/creditscore-part1-handlemissing) 
 
 🔗<b>Dataset in kaggle :</b> [Credit score classification](https://www.kaggle.com/datasets/parisrohan/credit-score-classification)
